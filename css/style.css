@@ -1346,6 +1346,10 @@ body {
   margin: 10px 0;
 }
 
+.company_telephone {
+  color: #fff;
+}
+
 .company_number span {
   display: none;
 }
